@@ -1,7 +1,7 @@
 # LLM - Detect AI Generated Text：https://www.kaggle.com/competitions/llm-detect-ai-generated-text
 
+(Notice: This is a short two-week project).
 ## Project Introdution:
-
 
 **Data Set:** [Eassy of the students]([https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset](https://www.kaggle.com/competitions/llm-detect-ai-generated-text/data)). 
 
