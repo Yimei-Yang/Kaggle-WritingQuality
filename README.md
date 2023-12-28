@@ -1,4 +1,4 @@
-# LLM - Detect AI Generated Text：https://www.kaggle.com/competitions/llm-detect-ai-generated-text
+# Feature Engineering: Sentence & paragraph features：[https://www.kaggle.com/competitions/llm-detect-ai-generated-text](https://www.kaggle.com/code/hiarsl/feature-engineering-sentence-paragraph-features)
 
 Notice: This is a short two-week project.
 ## Project Introdution:
